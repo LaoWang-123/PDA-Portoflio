@@ -1,32 +1,38 @@
-# Readme
-Liangkang Wang
-2023-05-23
 
-## Quarto
+# Statistical Analysis Projects Overview
 
-Quarto enables you to weave together content and executable code into a
-finished document. To learn more about Quarto see <https://quarto.org>.
+This repository contains three statistical analysis projects, each focusing on different aspects and methodologies within the field of statistics. Below is an overview of each project:
 
-## Running Code
+## Project 1: Exploratory Data Analysis
+[Project 1 Report](./Project-1-Report.pdf)
 
-When you click the **Render** button a document will be generated that
-includes both content and the output of embedded code. You can embed
-code like this:
+**Summary**: 
+- This project involves an in-depth exploratory data analysis, emphasizing data preprocessing, visualization, and initial statistical examination.
+- Key aspects include data cleaning, handling missing values, and creating descriptive statistics to understand the dataset's characteristics.
+- Various visualizations are used to highlight patterns and relationships within the data.
 
-<details>
-<summary>Code</summary>
+## Project 2: Advanced Statistical Modeling
+[Project 2 Report](./Project2.pdf)
 
-``` r
-1 + 1
-```
+**Summary**:
+- The focus of Project 2 is on advanced statistical modeling techniques.
+- It covers the implementation of logistic regression models and examines the effects of various predictors on the outcomes.
+- The project also delves into the utilization of mixed models, highlighting the impact of random effects in statistical analysis.
 
-</details>
+## Project 3: Simulation and Method Comparison
+[Project 3 Report](./Project-3-report.pdf)
 
-    [1] 2
+**Summary**:
+- Project 3 explores the use of simulation-based methods alongside data-based approaches.
+- It includes a detailed comparison of models derived from simulated data against models built from real datasets.
+- The project also incorporates ROC-AUC analysis, providing insights into model performance and evaluation metrics.
 
-You can add options to executable code like this
+---
 
-    [1] 4
+### Repository Structure
+- `Project-1-Report.pdf`: Contains the full report for Project 1, including data exploration and preliminary analysis.
+- `Project2.pdf`: Detailed report for Project 2, focusing on advanced statistical modeling techniques.
+- `Project-3-report.pdf`: Comprehensive report for Project 3, showcasing the application of simulation methods and comparative analysis.
 
-The `echo: false` option disables the printing of code (only output is
-displayed).
+### Additional Information
+Each project report contains a thorough explanation of the methods used, the results obtained, and the conclusions drawn from the analysis. These projects collectively demonstrate a range of skills in statistical analysis, from basic exploratory techniques to more complex modeling and simulation approaches.
